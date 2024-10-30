@@ -2,7 +2,7 @@
 
 # Heart Condition Classification Project Using K-NN and Decision Tree
 
-This project aims to classify heart conditions into two classes (Normal and Abnormal) using **K-Nearest Neighbors (K-NN)** and **Decision Tree** algorithms. The dataset used consists of heart data classified as **Normal** and **Abnormal**, with a total of 14,550 entries.
+This project aims to classify heart conditions into two dataset
 
 ## Steps
 
