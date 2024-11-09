@@ -1,6 +1,6 @@
 # Heart Condition Classification 
 
-# Heart Condition Classification Project Using K-NN and Decision Tree
+# Heart Condition Classification Using K-NN and Decision Tree
 
 This project aims to classify heart conditions into two dataset
 
